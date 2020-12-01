@@ -10,7 +10,7 @@ Carcatalog: https://github.com/MadsMeinertAndersenCPHBusiness/Carcatalog
 
 Microservices: https://github.com/MadsMeinertAndersenCPHBusiness/Microservices
 
-UserRating: https://github.com/MadsMeinertAndersenCPHBusiness/UserRating
+UserRating: https://github.com/MadsMeinertAndersenCPHBusiness/UserRating 
 
 ## Kubernetes
 
