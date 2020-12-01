@@ -1,6 +1,6 @@
 # MiniProject4Microservices
 
-1. Extend rent-a-car
+##1. Extend rent-a-car
 
 You can find our different repositories on the following links:
 
@@ -12,5 +12,6 @@ Microservices: https://github.com/MadsMeinertAndersenCPHBusiness/Microservices
 
 UserRating: https://github.com/MadsMeinertAndersenCPHBusiness/UserRating
 
-2. Kubernetes
+##2. Kubernetes
+
 
