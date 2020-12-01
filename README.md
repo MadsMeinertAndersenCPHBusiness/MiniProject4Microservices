@@ -13,5 +13,7 @@ Microservices: https://github.com/MadsMeinertAndersenCPHBusiness/Microservices
 UserRating: https://github.com/MadsMeinertAndersenCPHBusiness/UserRating
 
 ## Kubernetes
- 
+
+We used the following yml to push our images up to kubernetes: https://github.com/MadsMeinertAndersenCPHBusiness/MiniProject4Microservices/blob/main/kubernetes.yml
+
 
